@@ -1,0 +1,6 @@
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\bin\Debug\NumerosLetras.exe.config
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\bin\Debug\NumerosLetras.exe
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\bin\Debug\NumerosLetras.pdb
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\obj\Debug\NumerosLetras.csprojResolveAssemblyReference.cache
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\obj\Debug\NumerosLetras.exe
+C:\Users\Noemy\Documents\SharpDevelop Projects\NumerosLetras\NumerosLetras\obj\Debug\NumerosLetras.pdb
